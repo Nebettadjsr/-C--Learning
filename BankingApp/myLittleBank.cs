@@ -1,6 +1,8 @@
 
 using System;
 using System.Collections.Generic;
+using System.Globalization;
+
 
 /// <summary>
 /// Class "BankAccount" holds all Variables, Functions & Cunstroctor associated with all Accounts in the Banking system. 
@@ -12,12 +14,12 @@ public class BankAccount
 {
     // Attributes/ Variables of BankAccount class
     public string userName;
-    public float accountBalance;
+    public decimal accountBalance;
     public float userPin;
     
     // Constructor
     // links Object Variables to input Parameter
-    public BankAccount(string userName, float accountBalance, float userPin)
+    public BankAccount(string userName, decimal accountBalance, float userPin)
     {
         this.userName = userName;
         this.userPin = userPin;
@@ -39,17 +41,17 @@ public class BankAccount
     /// </summary>
     public void addBalance()
     {
-        float numMoney = 0;
+        decimal numMoney = 0;
 
         Console.WriteLine("How much money do you wish to deposit today?");
         string strMoney = Console.ReadLine();
-        bool isValid = float.TryParse(strMoney, out numMoney);
+        bool isValid = decimal.TryParse(strMoney, out numMoney);
             
             while (!isValid || numMoney <=0)
             {
                 Console.WriteLine("Please only enter positive Numbers. \nHow much money do you wish to deposit today?");
                 strMoney = Console.ReadLine();
-                isValid = float.TryParse(strMoney, out numMoney);
+                isValid = decimal.TryParse(strMoney, NumberStyles.Number, CultureInfo.InvariantCulture, out numMoney);
             }
             accountBalance = accountBalance + numMoney;
             Console.WriteLine($"The new account balance of {userName} is ${accountBalance:N2}");
@@ -61,14 +63,14 @@ public class BankAccount
     /// </summary>
     public void takeBalance()
     {
-        float numMoney = 0;
+        decimal numMoney = 0;
         bool validInput = false;
 
         while (!validInput)
         {
             Console.WriteLine("How much money do you wish to withdraw today?");
             string strMoney = Console.ReadLine();
-            bool isValid = float.TryParse(strMoney, out numMoney);
+            bool isValid = decimal.TryParse(strMoney, out numMoney);
                 
                 if (!isValid || numMoney <=0 )
                 {
@@ -127,13 +129,13 @@ public class BankAccountSystem
                     }
                 Console.WriteLine ("How much money will you deposit in your new account?");
                 string newAccountBalance = Console.ReadLine();
-                bool isBalanceValid = float.TryParse(newAccountBalance, out float intAccountBalance);
+                bool isBalanceValid = decimal.TryParse(newAccountBalance, NumberStyles.Number, CultureInfo.InvariantCulture, out decimal intAccountBalance);
                 
                 while (!isBalanceValid)
                 {
                     Console.WriteLine("Please only enter the new Balance in Numbers. \nHow much money will you deposit in your new account?");
                     newAccountBalance = Console.ReadLine();
-                    isBalanceValid = float.TryParse(newAccountBalance, out intAccountBalance);
+                    isBalanceValid = decimal.TryParse(newAccountBalance, out intAccountBalance);
                 }
 
                 Console.WriteLine($"Please set a PIN for {newAccountName} account: ");
@@ -151,6 +153,36 @@ public class BankAccountSystem
                 return newAccountName;
                 
         }
+    
+    static void RemoveUser(){
+        Console.WriteLine($"Please confirm you wish to delete user Account {currentUser} by typing \"y\" to continue and \"n\" to abort.");        
+        string conf = Console.ReadLine();
+        
+        switch (conf)
+        {
+            case "y":
+            case "Y":
+                Console.WriteLine($"To proceed deletion of user Account {currentUser} please provide PIN:");
+                bool pinOK = CheckPin();
+
+                if (!pinOK)
+                {
+                    Console.WriteLine("Wrong PIN! Deletion aborted!. Exiting...");
+                    return;
+                }
+               
+                Console.WriteLine($"User {currentUser} succsessfully deleted.");
+                UserAccounts.Remove("Herbert");
+                return;
+                
+
+                break;
+            default:
+                Console.WriteLine("Account deletion abort. Retun to Main Menu.");
+                return;
+
+        }
+    }
    
     /// <summary>
     /// switchUser allows to toggle between multiple accounts.
@@ -161,7 +193,11 @@ public class BankAccountSystem
     {
         while (true) // <--- Loop until valid user selected or account created
         {
-            Console.WriteLine("What is the name of the Account you wish to access? \nDefault user \"Herbert\" - PIN 1234");
+            Console.WriteLine("What is the name of the Account you wish to access?");
+            if (UserAccounts.ContainsKey("Herbert"))
+                {
+                    Console.WriteLine("Default user \"Herbert\" - PIN 1234");
+                } 
             string userinput = Console.ReadLine();
 
             if (UserAccounts.ContainsKey(userinput))
@@ -236,6 +272,8 @@ public class BankAccountSystem
         // After loop: user failed all attempts
         return false;
     }
+
+
        
     /// <summary>
     /// Main Program Menue
@@ -243,7 +281,7 @@ public class BankAccountSystem
     /// </summary>
     public static void Main(string[] args)
     {   
-        UserAccounts.Add("Herbert", new BankAccount("Herbert", 9876.5f, 1234));
+        UserAccounts.Add("Herbert", new BankAccount("Herbert", 9876.5m, 1234));
                 
         Console.WriteLine ("Welcome to my little Bank!");
                 currentUser = switchUser();
@@ -257,7 +295,7 @@ public class BankAccountSystem
 
                 while (true)
                 {
-                Console.WriteLine ("Would you like to: \n(w)ithdraw Money? \n(c)heck your account balance? \n(d)eposit Money? \n(m)ake new Account \n(s)witch user \n(e)xit programm");
+                Console.WriteLine ("Would you like to: \n(w)ithdraw Money? \n(c)heck your account balance? \n(d)eposit Money? \n(m)ake new Account \n(s)witch user \n(r)emove account \n(e)xit programm");
                 string input = Console.ReadLine();
                 
                 switch (input)
@@ -274,6 +312,16 @@ public class BankAccountSystem
                     case "D":
                         UserAccounts[currentUser].addBalance();
                         break;
+                    case "r":
+                    case "R":
+                        RemoveUser();
+                        currentUser = switchUser();
+                        if (!CheckPin())
+                        {
+                            Console.WriteLine("Wrong PIN. Exiting...");
+                            return;
+                        }
+                        break;
                     case "e":
                     case "E":
                         Console.WriteLine("Thank you for using my little Bank!");
@@ -281,7 +329,7 @@ public class BankAccountSystem
                     case "m":
                     case "M":
                         CreateUser();
-                        break;
+                         break;                        
                     case "s":
                     case "S":
                         currentUser = switchUser();
