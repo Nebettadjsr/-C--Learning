@@ -1,0 +1,1234 @@
+[
+  {
+    "Deutsch": "Haus",
+    "Englisch": "House",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Baum",
+    "Englisch": "Tree",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Auto",
+    "Englisch": "Car",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Hund",
+    "Englisch": "Dog",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Katze",
+    "Englisch": "Cat",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Buch",
+    "Englisch": "Book",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Stuhl",
+    "Englisch": "Chair",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Tisch",
+    "Englisch": "Table",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Fenster",
+    "Englisch": "Window",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "T\u00FCr",
+    "Englisch": "Door",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Bett",
+    "Englisch": "Bed",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Apfel",
+    "Englisch": "Apple",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Banane",
+    "Englisch": "Banana",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Brot",
+    "Englisch": "Bread",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Wasser",
+    "Englisch": "Water",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Milch",
+    "Englisch": "Milk",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Kaffee",
+    "Englisch": "Coffee",
+    "GeuebtGesamt": 2,
+    "RichtigGesamt": 2,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Tee",
+    "Englisch": "Tea",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Freund",
+    "Englisch": "Friend",
+    "GeuebtGesamt": 2,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Schule",
+    "Englisch": "School",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Lehrer",
+    "Englisch": "Teacher",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Sch\u00FCler",
+    "Englisch": "Student",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Kind",
+    "Englisch": "Child",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Eltern",
+    "Englisch": "Parents",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Mutter",
+    "Englisch": "Mother",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Vater",
+    "Englisch": "Father",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Bruder",
+    "Englisch": "Brother",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Schwester",
+    "Englisch": "Sister",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Stadt",
+    "Englisch": "City",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Land",
+    "Englisch": "Country",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Stra\u00DFe",
+    "Englisch": "Street",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Zug",
+    "Englisch": "Train",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Bus",
+    "Englisch": "Bus",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Fahrrad",
+    "Englisch": "Bicycle",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Flugzeug",
+    "Englisch": "Airplane",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Arbeit",
+    "Englisch": "Work",
+    "GeuebtGesamt": 2,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 50,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Computer",
+    "Englisch": "Computer",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Telefon",
+    "Englisch": "Phone",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Uhr",
+    "Englisch": "Clock",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Geld",
+    "Englisch": "Money",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Laden",
+    "Englisch": "Shop",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Blume",
+    "Englisch": "Flower",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Sonne",
+    "Englisch": "Sun",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Mond",
+    "Englisch": "Moon",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Wolke",
+    "Englisch": "Cloud",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Regen",
+    "Englisch": "Rain",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Schnee",
+    "Englisch": "Snow",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Sommer",
+    "Englisch": "Summer",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Winter",
+    "Englisch": "Winter",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Tag",
+    "Englisch": "Day",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Nacht",
+    "Englisch": "Night",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  },
+  {
+    "Deutsch": "Erfahrung",
+    "Englisch": "Experience",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Beziehung",
+    "Englisch": "Relationship",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Verantwortung",
+    "Englisch": "Responsibility",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Entscheidung",
+    "Englisch": "Decision",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Zukunft",
+    "Englisch": "Future",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Vergangenheit",
+    "Englisch": "Past",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Gegenwart",
+    "Englisch": "Present",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Erinnerung",
+    "Englisch": "Memory",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Gesellschaft",
+    "Englisch": "Society",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Gesundheit",
+    "Englisch": "Health",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Nachricht",
+    "Englisch": "Message",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Erfolg",
+    "Englisch": "Success",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Fehler",
+    "Englisch": "Mistake",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Verlust",
+    "Englisch": "Loss",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Gefahr",
+    "Englisch": "Danger",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Chance",
+    "Englisch": "Opportunity",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Ziel",
+    "Englisch": "Goal",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Idee",
+    "Englisch": "Idea",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Meinung",
+    "Englisch": "Opinion",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Entwicklung",
+    "Englisch": "Development",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Verhalten",
+    "Englisch": "Behavior",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Umwelt",
+    "Englisch": "Environment",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Fortschritt",
+    "Englisch": "Progress",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Kultur",
+    "Englisch": "Culture",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Tradition",
+    "Englisch": "Tradition",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Erlaubnis",
+    "Englisch": "Permission",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Verbot",
+    "Englisch": "Prohibition",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "L\u00F6sung",
+    "Englisch": "Solution",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Grund",
+    "Englisch": "Reason",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Beispiel",
+    "Englisch": "Example",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Erkl\u00E4rung",
+    "Englisch": "Explanation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Ausbildung",
+    "Englisch": "Education",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Beruf",
+    "Englisch": "Profession",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Gehalt",
+    "Englisch": "Salary",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Bewerbung",
+    "Englisch": "Application",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Interview",
+    "Englisch": "Interview",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Teamarbeit",
+    "Englisch": "Teamwork",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Projekt",
+    "Englisch": "Project",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Kunde",
+    "Englisch": "Customer",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Firma",
+    "Englisch": "Company",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Rechnung",
+    "Englisch": "Invoice",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Vertrag",
+    "Englisch": "Contract",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Politik",
+    "Englisch": "Politics",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Regierung",
+    "Englisch": "Government",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Gesetz",
+    "Englisch": "Law",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Wirtschaft",
+    "Englisch": "Economy",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Technologie",
+    "Englisch": "Technology",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Computerprogramm",
+    "Englisch": "Computer program",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Information",
+    "Englisch": "Information",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Kommunikation",
+    "Englisch": "Communication",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Sicherheit",
+    "Englisch": "Security",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 1
+  },
+  {
+    "Deutsch": "Herausforderung",
+    "Englisch": "Challenge",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Auswirkung",
+    "Englisch": "Impact",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Begr\u00FCndung",
+    "Englisch": "Justification",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "\u00DCberzeugung",
+    "Englisch": "Conviction",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Voraussetzung",
+    "Englisch": "Prerequisite",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Zusammenhang",
+    "Englisch": "Context",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Einfluss",
+    "Englisch": "Influence",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Beobachtung",
+    "Englisch": "Observation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Bewusstsein",
+    "Englisch": "Awareness",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Erkenntnis",
+    "Englisch": "Insight",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Vermutung",
+    "Englisch": "Assumption",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Begriff",
+    "Englisch": "Concept",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "F\u00E4higkeit",
+    "Englisch": "Ability",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Einstellung",
+    "Englisch": "Attitude",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "\u00DCberlegung",
+    "Englisch": "Consideration",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Darstellung",
+    "Englisch": "Representation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Beurteilung",
+    "Englisch": "Assessment",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Vorgehensweise",
+    "Englisch": "Approach",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Bedeutung",
+    "Englisch": "Significance",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Hintergrund",
+    "Englisch": "Background",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Entstehung",
+    "Englisch": "Origin",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Erweiterung",
+    "Englisch": "Expansion",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Unterschied",
+    "Englisch": "Distinction",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Verst\u00E4ndnis",
+    "Englisch": "Comprehension",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Bewertung",
+    "Englisch": "Evaluation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Zustand",
+    "Englisch": "Condition",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Vorschrift",
+    "Englisch": "Regulation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Bestimmung",
+    "Englisch": "Provision",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Einschr\u00E4nkung",
+    "Englisch": "Limitation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Widerspruch",
+    "Englisch": "Contradiction",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "\u00DCbereinstimmung",
+    "Englisch": "Agreement",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Erwartung",
+    "Englisch": "Expectation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Anforderung",
+    "Englisch": "Requirement",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Nachweis",
+    "Englisch": "Proof",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Ausnahme",
+    "Englisch": "Exception",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Begr\u00FCndung",
+    "Englisch": "Rationale",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Entscheidungsfindung",
+    "Englisch": "Decision-making",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Wahrnehmung",
+    "Englisch": "Perception",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Einrichtung",
+    "Englisch": "Institution",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Ergebnis",
+    "Englisch": "Outcome",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Verf\u00FCgbarkeit",
+    "Englisch": "Availability",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 1,
+    "ProzentRichtig": 100,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Zuverl\u00E4ssigkeit",
+    "Englisch": "Reliability",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Nachhaltigkeit",
+    "Englisch": "Sustainability",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Kompetenz",
+    "Englisch": "Competence",
+    "GeuebtGesamt": 1,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Verpflichtung",
+    "Englisch": "Commitment",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Unabh\u00E4ngigkeit",
+    "Englisch": "Independence",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Einflussnahme",
+    "Englisch": "Intervention",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Schwierigkeit",
+    "Englisch": "Difficulty",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Beteiligung",
+    "Englisch": "Participation",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Auseinandersetzung",
+    "Englisch": "Dispute",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "\u00DCbersicht",
+    "Englisch": "Overview",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 2
+  },
+  {
+    "Deutsch": "Test",
+    "Englisch": "Test",
+    "GeuebtGesamt": 0,
+    "RichtigGesamt": 0,
+    "ProzentRichtig": 0,
+    "Schwierigkeit": 0
+  }
+]
